@@ -1,5 +1,6 @@
 {
-  "name": "fajarnazmi.github.io",
+  "homepage": "http://fajar13k.github.io/portfolio",
+  "name": "fajar13k.github.io",
   "version": "1.0.0",
   "private": true,
   "dependencies": {
@@ -14,6 +15,8 @@
     "react-scripts": "3.4.1"
   },
   "scripts": {
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
     "start": "npm run watch:css && react-scripts start",
     "build": "npm run build:css && react-scripts build",
     "test": "react-scripts test",
