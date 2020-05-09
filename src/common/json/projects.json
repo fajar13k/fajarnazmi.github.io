@@ -1,0 +1,30 @@
+[
+  {
+    "title": "GTS Team Branding",
+    "description": "GTS Team is a tournament organiser within a game named osu!. The team hosts seasonal osu!taiko tournaments starting from beginner to expert division. The simple Logomark spells GTS was the mark that client finds interesting, simple, and memorable.",
+    "year": 2020,
+    "detailLink": "https://www.behance.net/gallery/93065553/GTS-TEAM-Branding",
+    "image": "gts-branding.png"
+  },
+  {
+    "title": "Kampoeng Mulang Logo",
+    "description": "Kampoeng Mulang is a group of student within STMIK \"AMIKBANDUNG\" that accommodates students interest in multimedia, animation and games. The butterfly represents home and place of origin, the 4-way colours represent diversity of the design industry, creativity, and cappability.",
+    "year": 2019,
+    "detailLink": "https://www.instagram.com/p/BqlJ9oohvKB/",
+    "image": "kampoeng-mulang-logo.png"
+  },
+  {
+    "title": "Healthpoint",
+    "description": "Healthpoint is a health & disease data-collection software and is based in Sukabumi, Indonesia. The project was developed during my internship, and I was appointed as the Project Manager and Fullstack Web Developer during the development.",
+    "year": 2019,
+    "detailLink": null,
+    "image": "healthpoint.png"
+  },
+  {
+    "title": "SmartLIBRARY",
+    "description": "SmartLIBRARY is a web-based library software that was developed for my junior highschool. The project used Laravel and MySQL as the tech and Bootstrap as the CSS Framework.",
+    "year": 2019,
+    "detailLink": null,
+    "image": "smartlibrary.png"
+  }
+]
