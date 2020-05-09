@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.701bf333.chunk.css",
+    "main.js": "/portfolio/static/js/main.98bc1551.chunk.js",
+    "main.js.map": "/portfolio/static/js/main.98bc1551.chunk.js.map",
+    "runtime-main.js": "/portfolio/static/js/runtime-main.31ed5798.js",
+    "runtime-main.js.map": "/portfolio/static/js/runtime-main.31ed5798.js.map",
+    "static/js/2.bfc9b565.chunk.js": "/portfolio/static/js/2.bfc9b565.chunk.js",
+    "static/js/2.bfc9b565.chunk.js.map": "/portfolio/static/js/2.bfc9b565.chunk.js.map",
+    "index.html": "/portfolio/index.html",
+    "precache-manifest.f60e5abf39ef411cf0286655c296057a.js": "/portfolio/precache-manifest.f60e5abf39ef411cf0286655c296057a.js",
+    "service-worker.js": "/portfolio/service-worker.js",
+    "static/css/main.701bf333.chunk.css.map": "/portfolio/static/css/main.701bf333.chunk.css.map",
+    "static/js/2.bfc9b565.chunk.js.LICENSE.txt": "/portfolio/static/js/2.bfc9b565.chunk.js.LICENSE.txt",
+    "static/media/fajar.jpg": "/portfolio/static/media/fajar.7c590c5d.jpg",
+    "static/media/gts-branding.png": "/portfolio/static/media/gts-branding.27ca2945.png",
+    "static/media/healthpoint.png": "/portfolio/static/media/healthpoint.34043969.png",
+    "static/media/kampoeng-mulang-logo.png": "/portfolio/static/media/kampoeng-mulang-logo.0fc2a7fa.png",
+    "static/media/smartlibrary.png": "/portfolio/static/media/smartlibrary.53f7c877.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.31ed5798.js",
+    "static/js/2.bfc9b565.chunk.js",
+    "static/css/main.701bf333.chunk.css",
+    "static/js/main.98bc1551.chunk.js"
+  ]
+}
