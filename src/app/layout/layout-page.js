@@ -27,7 +27,7 @@ class LayoutPage extends Component {
 						<Route path={`${env}works`} component={WorksPage} />
 						<Route path={`${env}contact`} component={ContactPage} />
 					</Switch>
-					<BottomNav />
+					<BottomNav env={env} />
 					<Footer />
 				</div>
 			</Router>
